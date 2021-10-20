@@ -1,4 +1,8 @@
 456
+<<<<<<< HEAD
 commit test
+=======
+testing line.
+>>>>>>> 1e843ae026afd3cdd4963064021f448932acee9f
 789.
 Add Line
